@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.liner {
+    border: 1px solid red;
+}
+
+.linerblue {
+    border: 1px solid blue;
+}
+
+.linergreen {
+    border: 1px solid green;
+}
+
+.linerblack {
+    border: 1px solid black;
+}
